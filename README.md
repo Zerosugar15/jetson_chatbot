@@ -432,7 +432,7 @@ For detailed explanation, [click here](https://github.com/hoohsh/jetson_chatbot/
 ---
 
 ### **Result Video**
-[Watch the chatbot in action as it monitors CO2 levels and determines ventilation needs!](https://youtu.be/-8HzmXPytvM)
+[Watch the chatbot in action as it monitors CO2 levels and determines ventilation needs!](https://youtu.be/RahQQE3emJg)
 
 #### **Result Picture**:
 ![image](https://github.com/user-attachments/assets/d841de0b-537c-4685-a4bb-d866f7571c85)
